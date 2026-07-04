@@ -1,0 +1,7 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "admin_id": 6807574494,
+  "max_message_ids": 2,
+  "isDone": false,
+  "oneTimeCfgEndpoint": true
+}
