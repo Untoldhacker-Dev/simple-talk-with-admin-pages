@@ -1,5 +1,5 @@
 # Deploy
-<a href="https://pages.adityakp.dev/deploy/github?repo=https://github.com/Untoldhacker-Dev/telegram-admin-bot">
+<a href="https://pages.adityakp.dev/deploy/github?repo=https://github.com/Untoldhacker-Dev/simple-talk-with-admin-pages">
   <img src="https://hostpanel.adityakp.dev/deploy_button.jpg" alt="Deploy to adityakp.dev Pages" height="44">
 </a>
 
