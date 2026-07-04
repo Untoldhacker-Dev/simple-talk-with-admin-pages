@@ -3,6 +3,9 @@
   <img src="https://hostpanel.adityakp.dev/deploy_button.jpg" alt="Deploy to adityakp.dev Pages" height="44">
 </a>
 
+# Help
+[adityakp.dev Pages docs](https://adityakp.dev/docs.html)
+
 ## What it does
 This project is a lightweight Telegram admin bot built for [adityakp.dev Pages](https://pages.adityakp.dev). It creates a bridge between Telegram users and an admin, enabling:
 
